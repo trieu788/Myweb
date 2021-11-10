@@ -22,7 +22,7 @@ app.set('view engine', '.hbs')
 app.set('views', path.join(__dirname, 'resources' , 'views'))
 
 //Using middleware for req.body
-app.use(express.urlencoded())
+app.use(express.urlencoded({extended:true}))
 app.use(express.json())
 
 // Route
