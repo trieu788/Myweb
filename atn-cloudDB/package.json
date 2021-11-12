@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sangitgreenwich/simple-pgdb.git"
+    "url": "git+https://https://github.com/trieu788/trieu.repo"
   },
   "keywords": [
     "PGdb",
     "Test",
     "PGDB"
   ],
-  "author": "SangPC",
+  "author": "Trieu.repo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sangitgreenwich/simple-pgdb/issues"
+    "url": "https://https://github.com/trieu788/trieu.repo"
   },
-  "homepage": "https://github.com/sangitgreenwich/simple-pgdb#readme",
+  "homepage": "https://https://github.com/trieu788/trieu.repo",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.3.2",
